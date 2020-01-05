@@ -1,0 +1,26 @@
+body{
+	background-color: white;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 30pt;
+	font-family: Buxton Sketch;
+}
+table {
+	box-shadow: 5px 5px 5px;
+	max-width: 100%;
+}
+table tr{
+	cursor: pointer;
+}
+
+.th{
+	cursor: default;
+	font-size: 20pt
+}
+hr{
+	box-shadow: 5px 5px 5px;
+}
+select{
+	cursor: pointer;
+}
